@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/phrase-lock/static/css/main.7db766ff.css",
+    "main.js": "/phrase-lock/static/js/main.2b912227.js",
+    "static/media/Ubuntu-Regular.ttf": "/phrase-lock/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "index.html": "/phrase-lock/index.html",
+    "main.7db766ff.css.map": "/phrase-lock/static/css/main.7db766ff.css.map",
+    "main.2b912227.js.map": "/phrase-lock/static/js/main.2b912227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db766ff.css",
+    "static/js/main.2b912227.js"
+  ]
+}
