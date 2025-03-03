@@ -1,0 +1,20 @@
+.copy-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: inherit;
+}
+
+.copy-button img {
+    width: 24px;
+    height: 24px;
+}
+
+.copy-button:hover,
+.copy-button:focus,
+.copy-button:active {
+    background: none;
+    border: none;
+    outline: none;
+}
