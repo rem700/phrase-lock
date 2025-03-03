@@ -4,6 +4,7 @@ Password Generator is a modern web application for generating passwords that goe
 
 Features
 ✔ Embedded Mnemonic Phrase – Users can add a memorable phrase into the password for easier recall.
+
 ✔ Random Generation – Passwords are generated randomly according to modern security standards, ensuring reliability.
 ✔ Customizable Password Length – Users can adjust the password length based on their needs.
 ✔ Use of Various Characters – Includes uppercase and lowercase letters, numbers, and special symbols to enhance password complexity.
